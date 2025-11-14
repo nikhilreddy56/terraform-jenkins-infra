@@ -10,7 +10,7 @@ This project includes:
 
 - 🔧 Infrastructure setup for Jenkins (on AWS EC2)
 - ⚙️ Jenkins configuration to:
-  - Pull Terraform code from an external Git repository - 
+  - Pull Terraform code from an external Git repository - https://github.com/nikhilreddy56/RestAPI-Python.git
   - Provision Cloud infrastructure (VPC, other Networking components, Hosted Zone for DNS, Certificate using AWS Certificate Manager, EC2, RDS, Load Balancer)
   - Deploy a Python-based REST API application
 
